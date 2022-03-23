@@ -11,8 +11,8 @@ https://youtu.be/QKrUZaz7720
 ## Game Play Instructions
 
 ### Keys
-* Spacebar = Curse Attack
-* 1 = Abyssal Energy Attack (Attack has a 9 sec cooldown)
+* Spacebar = Curse Attack (Hold down for full cast)
+* 1 = Abyssal Energy Attack (Attack has a 9 sec cooldown, Hold down for full cast)
 * <-- --> Left/Right = Move left or right
 
 ### Attacks
