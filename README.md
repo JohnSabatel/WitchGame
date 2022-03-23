@@ -5,7 +5,8 @@ Two basic enemy levels and a third boss level with multiple attack phases.
 
 NOTE: All graphics, sounds and music were not created by me. These files are not included, please find the reference section below for credit and downloads.
 
-
+### Game play through
+https://youtu.be/QKrUZaz7720 
 
 ## Game Play Instructions
 
