@@ -1,13 +1,3 @@
-"""
-TO DO:
-
-- Clean up the boss fight (Adjust skeleton spawn/damage, bb damage, aoe damage; all while testing with normal witch vel)
-- ADD MUSIC AND SOUNDS!!!!
-
-- Create splash home screen
-
-
-"""
 
 import pygame
 import time
