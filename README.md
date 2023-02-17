@@ -3,7 +3,7 @@
 Short 8 bit side scroller game developed using Python and the pygame library.
 Two basic enemy levels and a third boss level with multiple attack phases. 
 
-NOTE: All graphics, sounds and music were not created by me.
+NOTE: All graphics, sounds and music were not created by me. See below for references!
 
 ### Game play through
 https://youtu.be/QKrUZaz7720 
